@@ -1,0 +1,27 @@
+img {
+	display: none;
+}
+
+h1 {
+	color: #FFFFFF;
+	text-align: center;
+	text-transform: uppercase;
+      background-color: #7F7F7F;
+}
+
+h2 {
+	color: #020180;
+	text-transform: uppercase;
+}
+
+section {
+		margin-left: 285px;
+		margin-right: 285px;
+		background-color: #7F7F7F;
+}
+
+	.frisbee {
+		margin-left: 285px;
+		margin-right: 285px;
+		background-color: #B2B2B2;
+	}
